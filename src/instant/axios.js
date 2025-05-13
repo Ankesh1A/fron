@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'https://saadidukan-2.onrender.com', // Backend URL
+  baseURL: 'https://ba-o7bb.onrender.com', // Backend URL
   headers: {
     'Content-Type': 'application/json',
   },
